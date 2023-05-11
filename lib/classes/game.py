@@ -14,3 +14,7 @@ class Game:
     
     def average_score(self, player):
         pass
+
+
+
+print("HELLO")
